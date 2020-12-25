@@ -35,8 +35,7 @@ version = "0.2.0"
 
 [dependencies.tokio-native-tls]
 optional = true
-git = "https://github.com/tokio-rs/tls.git"
-rev = "f85882fbc7c0f5e5aafbe3f8637ec333be7ecd68"
+version = "0.3.0"
 
 [dev-dependencies]
 futures-channel = "0.3"
